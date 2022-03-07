@@ -15,7 +15,7 @@
 - - Asynchronous code
 - - compress images
 - - lazy load the data
-- - minify the code
+- - minify the code - https://www.toptal.com/developers/javascript-minifier/
 - - removing extraneous JS libraries
 
 ![50-app-demo](https://user-images.githubusercontent.com/80685266/157106739-50f576b9-4ce4-469a-938f-0e32a95fe68e.gif)
